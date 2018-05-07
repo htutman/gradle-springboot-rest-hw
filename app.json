@@ -1,0 +1,5 @@
+{
+  "name": "gradle-springboot-rest-hw",
+  "description": "Simple Gradle Spring Boot REST Hello World Java application prepared for Heroku deployment.",
+  "addons": []
+}
